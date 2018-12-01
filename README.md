@@ -1,7 +1,10 @@
 ## WinForm随机选号
-基于Visual Studio 2017开发的随机筛选小应用，使用C#开发语言，功能非常简单，实现类似中奖随机选择小程序；
+基于Visual Studio 2017 NetFramework 4.6.1开发的随机筛选小应用，使用C#开发语言，功能非常简单，实现类似中奖随机选择小程序。
 
-
+---
+![](/WpfApp1/img/screen_tp1.png)
+---
+![](/WpfApp1/img/screen_tp2.png)
 ---
 
 ##### WpfAPp1：功能实现；
