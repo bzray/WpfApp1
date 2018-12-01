@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="芜湖市福利院（随机选号软件）" Height="450" Width="800" Loaded="Window_Loaded" Icon="img/main.png" ResizeMode="NoResize" IsManipulationEnabled="True" WindowStartupLocation="CenterScreen">
+        Title="随机选号软件" Height="450" Width="800" Loaded="Window_Loaded" Icon="img/main.png" ResizeMode="NoResize" IsManipulationEnabled="True" WindowStartupLocation="CenterScreen">
     <Window.Background>
         <ImageBrush ImageSource="bg.jpg"/>
     </Window.Background>

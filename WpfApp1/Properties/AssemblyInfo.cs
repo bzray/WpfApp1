@@ -12,7 +12,7 @@ using System.Windows;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("随机筛选软件")]
-[assembly: AssemblyCopyright("Copyright © 2018-2019 芜湖市儿童福利院")]
+[assembly: AssemblyCopyright("Copyright © 2018-2019 版权所以")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

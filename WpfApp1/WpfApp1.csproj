@@ -172,5 +172,9 @@
   <ItemGroup>
     <Resource Include="readMine.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\screen_tp1.png" />
+    <Resource Include="img\screen_tp2.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
